@@ -29,7 +29,7 @@ body{
 }
 
 .header{
-    width: 375px;
+    width: 325px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -62,8 +62,8 @@ body{
     font-family: 'Lexend Deca', sans-serif;
     color: var(--Slightly-transparent-white);
     text-align: center;
-    font-size: 2.3em;
-    margin-bottom: 14px;
+    font-size: 1.95em;
+    margin-bottom: 15px;
 }
 
 .header__title > span{
@@ -75,7 +75,7 @@ body{
     text-align: center;
     color: var(--Slightly-transparent);
     line-height: 1.6em;
-    font-size: 1.2em;
+    font-size: 1em;
     margin-bottom: 45px;
 }
 
